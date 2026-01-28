@@ -20,3 +20,8 @@ Provides a clear, real-time interface for operators to monitor system status
 Likely used to move parts, open/close mechanisms, or drive a conveyor in the production process.
 
 *Buzzer:Emits a beeping sound (200ms on, 100ms off, repeated three times) when the temperature is below 33.3°C, alerting operators to potential environmental issues
+
+
+Demonstration below of the system danger alert system below
+
+https://github.com/user-attachments/assets/1a7a68c7-bc84-4453-ba00-7192d83e3c45
